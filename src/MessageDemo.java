@@ -2,7 +2,7 @@
 * Allison Juliette Snipes        *
 * Created May 30, 2020           *
 * Homework Week 1                *
-* * * * * * * * * * * * * *  *   */
+*  * * * * * * * * * * * * * * * */
 
 public class MessageDemo {
 
