@@ -1,22 +1,22 @@
 # Homework 1
 
-Using the picture provided provide a similar text file to display to the console a text image.
+Using the picture provided, display a similar image to the console.
 
 ## Getting Started
 
-Read the material provided, look at the video lectures, .
+Read the material provided, look at the video lectures, and do research as needed to complete the assignment.
 
-### Prerequisities
+## Prerequisities
 
-No prerequisities are needed to play the game. The user is to simply use to left and right arrow keys to bounce the ball around the screen to hit the blocks.
+No prerequisities are needed except to review the class materials.
 
 ## Built With
 
-This application was developed using Java, no other programs are needed to execute the program.
+The application was developed using Java, no other programs are needed to execute the program (except for an IDE or bash/terminal).
 
 ## Authors
 
-Allison Juliette Snipes
+Allison Juliette Snipes; created on May 30, 2020.
 
 ## License
 
